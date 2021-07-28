@@ -1,3 +1,11 @@
+---
+name: Employee Directory Update
+about: Add/Edit employee directory listing
+title: ''
+labels: ''
+assignees: ''
+---
+
 **Who is the employee in question?**
 
 The employee’s full name is…
