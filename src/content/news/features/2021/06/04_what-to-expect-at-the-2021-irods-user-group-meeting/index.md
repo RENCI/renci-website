@@ -5,7 +5,7 @@ slug: what-to-expect-at-the-2021-irods-user-group-meeting
 spotlight: true
 publishDate: 2021-06-04
 author: ["jayasree-jaganatha"]
-featuredImage: null
+featuredImage: ![202102_iRODS_UGM21-STD-V5@300x-1024x575](https://user-images.githubusercontent.com/68300939/157327244-daf607e7-495a-4911-9e57-7b601a197f1c.png)
 projects:
   - irods
 people:
