@@ -5,7 +5,7 @@ slug: renci-joins-researchers-across-the-us-in-supporting-nsf-major-facilities-w
 spotlight: true
 publishDate: 2021-07-24
 author: ["jayasree-jaganatha"]
-featuredImage: cicompass_launch_pressrelease_3_1_ (1).jpeg
+featuredImage: ![cicompass_launch_pressrelease_3_1_ (1)](https://user-images.githubusercontent.com/68300939/157327350-3f835e4c-f245-4f18-9738-367847705a2e.jpeg)
 projects:
   - ci-coe-pilot
 people:
