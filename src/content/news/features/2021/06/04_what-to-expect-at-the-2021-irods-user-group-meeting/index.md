@@ -20,7 +20,7 @@ tags:
   - data-management
 ---
 
-![](https://user-images.githubusercontent.com/68300939/157315269-619e668a-a953-49a6-835e-439eba4e9fb9.png)
+![202102_iRODS_UGM21-STD-V5@300x-1024x575](https://user-images.githubusercontent.com/68300939/157327244-daf607e7-495a-4911-9e57-7b601a197f1c.png)
 
 The worldwide [iRODS](https://irods.org/) user community will connect online from June 8 -- 11 for the 13th Annual iRODS User Group Meeting -- four days of learning, sharing of use cases, and discussions of new capabilities that have been added to iRODS in the last year.
 
