@@ -10,6 +10,8 @@ projects:
   - ci-coe-pilot
 people:
   - anirban-mandal
+  - erik-scott
+  - laura-christopherson
 groups:
   - nri
 teams:
