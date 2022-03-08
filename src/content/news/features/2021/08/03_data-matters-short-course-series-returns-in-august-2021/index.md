@@ -21,6 +21,8 @@ tags:
   - training
 ---
 
+[DM Basic Campaign 2021-01](https://user-images.githubusercontent.com/68300939/157326986-97b09f7a-abd8-4df9-9a9d-9e3309ad7402.png)
+
 Now in its eighth year, Data Matters 2021, a week-long series of one and two-day courses aimed at students and professionals in business, research, and government, will take place August 9 -- 13 virtually via Zoom. The short course series is sponsored by the [Odum Institute for Research in Social Science at UNC-Chapel Hill](https://odum.unc.edu/), the [National Consortium for Data Science](https://datascienceconsortium.org/), and [RENCI](https://renci.org/).
 
 Although the need for data literacy has grown exponentially for employers over the last few years, many academic institutions are struggling to keep up. According to a [2021 report from Forrester](https://www.tableau.com/sites/default/files/2021-06/Tableau_Data_Literacy_Report.pdf), 81% of recruiters rated data skills and data literacy as important capabilities for candidates, while only 48% of academic planners reported that their institution currently has specific data skills initiatives set up. Data Matters helps bridge this gap by providing attendees the chance to learn about a wide range of topics in data science, analytics, visualization, curation, and more from expert instructors.
