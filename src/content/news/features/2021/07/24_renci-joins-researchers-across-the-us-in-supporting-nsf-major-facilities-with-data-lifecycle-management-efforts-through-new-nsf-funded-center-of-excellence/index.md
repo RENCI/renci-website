@@ -22,6 +22,8 @@ tags:
   - cyberinfrastructure
 ---
 
+![cicompass_launch_pressrelease_3_1_ (1)](https://user-images.githubusercontent.com/68300939/157327350-3f835e4c-f245-4f18-9738-367847705a2e.jpeg)
+
 When it comes to research, having a strong cyberinfrastructure that supports advanced data acquisition, storage, management, integration, mining, visualization, and computational processing services can be vital. However, building cyberinfrastructures (CI) --- especially ones that aim to support multiple varied and complex scientific facilities --- is a challenge.
 
 In 2018, a team of researchers from institutions across the country came together to launch a pilot program aimed at creating a model for a Cyberinfrastructure Center of Excellence (CI CoE) for the National Science Foundation's (NSF) Major Facilities. The goal was to identify how the center could serve as a forum for the exchange of CI knowledge across varying fields and facilities, establish best practices for different NSF Major Facilities' CI, provide CI expertise, and address CI workforce development and sustainability.
