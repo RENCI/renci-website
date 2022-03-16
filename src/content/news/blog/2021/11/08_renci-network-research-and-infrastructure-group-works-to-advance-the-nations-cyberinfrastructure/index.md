@@ -4,7 +4,7 @@ subtitle:
 slug: renci-network-research-and-infrastructure-group-works-to-advance-the-nations-cyberinfrastructure
 link: https://renci.org/blog/rencis-network-research-and-infrastructure-group-works-to-advance-the-nations-cyberinfrastructure/
 publishDate: 2021-11-08
-author: 
+author: jayasree-jaganatha
 featuredImage: ![NRIG-Blog-01-1024x512](https://user-images.githubusercontent.com/68300939/158508359-cfdb4400-4bbd-4a54-ad01-2299e321496f.png)
 groups:
     - nri
