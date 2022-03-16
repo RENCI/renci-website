@@ -4,20 +4,22 @@ subtitle: Five year cooperative agreement offers opportunity to accelerate resea
 slug: renci-partners-with-cuahsi-and-others
 link: https://renci.org/blog/renci-partners-with-cuahsi-and-others-to-launch-critical-zone-collaborative-network-hub/
 publishDate: 2021-02-24
-author: 
+author: jayasree-jaganatha
 featuredImage: null
 groups:
-    - nrig
+    - software-architecture
 projects:
-    - flynet
+    - cz-hub
 people:
-    - anirban-mandal
+    - 
 teams: 
     - 
 collaborations:
     - 
 tags:
-    - 
+    - data-analysis
+    - visualization
+    - cyberinfrastructure
 ---
 
 ![](CZCN-Hub-Blog-Cards-01-1024x512.png)
