@@ -6,7 +6,7 @@ publishDate: 2021-02-03
 author:
 featuredImage: atl-wave.png
 groups:
-    - 
+    - nri
 projects:
     - atlanticwave-sdx
 people:
@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - 
+    - networking
 ---
 
 Sharing big data requires big networks. Systems like [AtlanticWave-SDX](https://www.atlanticwave-sdx.net/), which connects networks in the U.S., Chile, Brazil, and South Africa, provide specialized infrastructure needed to send vast amounts of scientific data across long distances, helping scientists make the most of powerful data collections.
