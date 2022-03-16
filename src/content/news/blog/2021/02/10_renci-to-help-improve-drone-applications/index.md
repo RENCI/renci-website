@@ -9,17 +9,20 @@ author:
     - tanvi-krishnamurthy
 featuredImage: null
 groups:
-    - 
+    - nri
 projects:
-    - 
+    - flynet
+    - dynamo
+    - fabric
+    - pegasus
 people:
-    - 
+    - anirban-mandal
 teams: 
     - 
 collaborations:
     - 
 tags:
-    - 
+    - high-performance-computing
 ---
 
 ![](Flynet-01-1024x512.png)
